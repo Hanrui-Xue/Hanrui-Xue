@@ -1,6 +1,7 @@
 # 👨‍🎓 Hanrui Xue
 
-**`Software Engineer`**
+**`Software Engineer`** **`Data Scientist`**
+
 <img align="right" alt="Coding" width="300" src="https://github.com/Hanrui-Xue/Hanrui-Xue/blob/main/Coding.gif">
 I am a recent graduate from the University of Nottingham, committed to continuous learning and applying my skills to tackle real-world challenges through coding. I have completed a Data Science internship at BMW Group, a luxury automobile company, and am currently employed as a software engineer at Leonardo, a UK defence company.
 
